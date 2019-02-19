@@ -1,0 +1,42 @@
+body {
+  background-color: #42022e;
+
+}
+
+.ui.topmenu {
+  background-color: #42022e;
+}
+
+
+.ui.container {
+  padding: 40px 40px 40px 40px;
+  width: 100%;
+}
+
+.ui.container .logo-container {
+  padding: 0px;
+  height: 40px;
+  margin-right: 32px;
+}
+
+.ui.logo-image {
+  width: 88px;
+}
+
+.ui.list {
+  margin-left: 40px;
+  font-size: 1.8rem;
+}
+
+.ui.container .topmenu-text {
+  color: white;
+  font-size: 1.35rem;
+  padding-left: 16px;
+  padding-right: 18px;
+  padding-top: 12px;
+}
+
+.ui.container .arrow-right {
+  padding: 0;
+  margin-left: -10px;
+}
