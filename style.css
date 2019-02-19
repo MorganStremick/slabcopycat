@@ -1,10 +1,11 @@
 body {
   background-color: #42022e;
-
 }
 
 .ui.topmenu {
   background-color: #42022e;
+  border: none;
+  box-shadow: none;
 }
 
 
@@ -14,7 +15,7 @@ body {
 }
 
 .ui.container .logo-container {
-  padding: 0px;
+  padding: 0;
   height: 40px;
   margin-right: 32px;
 }
@@ -40,3 +41,23 @@ body {
   padding: 0;
   margin-left: -10px;
 }
+
+.middle-grid {
+  height: 500px;
+}
+
+.middle-text-1 h2 {
+  color: white;
+  font-size: 3.8rem;
+  line-height: 120%;
+}
+
+.middle-text-2 p {
+  color: white;
+  opacity: 0.7;
+}
+
+
+
+
+
